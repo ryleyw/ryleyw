@@ -1,0 +1,36 @@
+.appBar {
+    height: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.navTitle {
+    font-family: 'Darker Grotesque', sans-serif;
+    font-weight: 800;
+    font-size: 30pt;
+    float: left;
+    margin-left: 5%;
+}
+
+
+
+.navButton {
+    font-family: 'Darker grotesque', sans-serif;
+    font-weight: 400;
+    font-size: 16pt;
+    float: right;
+    margin-right: 5%;
+    margin-top: 15px;
+    bottom: 0px;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+}
+
+.spacer {
+    height: 20px;
+    width: 100%;
+    background-color: black;
+}
+
