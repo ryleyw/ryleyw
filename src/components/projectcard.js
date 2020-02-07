@@ -2,13 +2,21 @@ import React from 'react';
 import '../css/nav.css';
 import {motion} from 'framer-motion';
 
-function ProjectCard() {
+function ProjectCard(props) {
     
 
     return(
         
-            <div className="cardContainer">
-                hello
+            <div className="projectCard" style={{backgroundColor: props.propColor}}>
+                <div className="projectLogo">
+
+                </div>
+                <div className="projectInfoHeader">
+                    EventScope
+                </div>
+                <div className="projectInfoText">
+                    this is a description
+                </div>
             </div>
        
     )

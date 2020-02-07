@@ -8,7 +8,7 @@ function NavSpacer() {
         <motion.div
             initial={{width: "0%"}}     
             animate={{width: "100%"}}
-            transition={{ ease: "easeOut", duration: 1.2 }}
+            transition={{ ease: "easeOut", duration: 1 }}
         >
             <div className="spacer"></div>
         </motion.div>       
