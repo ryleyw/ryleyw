@@ -23,7 +23,7 @@ function GrowToRight(props) {
                 variants={infoVariants}
                 transition={{ ease: "easeOut", duration: 1, delay: (props.delay / 2 + 1)}}
                 >
-                    <ProjectCard infoSource={props.infoSource} propColor={props.propColor}/>
+                    <ProjectCard projectData={props.projectData} projectDetails={props.projectDetails} propColor={props.propColor} projectLogo={props.projectLogo}/>
                 </motion.div>
             </div>
         </motion.div>       

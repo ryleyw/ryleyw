@@ -16,6 +16,12 @@
     margin-bottom: 100px;
 }
 
+@media only screen and (max-width: 700px) {
+    .aboutText {
+        width: 80%;
+    }
+}
+
 .slides {
     margin: auto;
     width: 50%;
