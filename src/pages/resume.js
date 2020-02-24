@@ -1,9 +1,9 @@
 import React from 'react';
-
+import ResumeContainer from '../components/resumecontainer';
 function Resume() {
     return (
-      <div>
-          resume section
+      <div className="resumePage">
+          <ResumeContainer />
       </div>
     );
   }
