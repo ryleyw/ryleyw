@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ryleyw/static/css/main.e3977c59.chunk.css",
+    "main.js": "/ryleyw/static/js/main.2367ebe3.chunk.js",
+    "main.js.map": "/ryleyw/static/js/main.2367ebe3.chunk.js.map",
+    "runtime-main.js": "/ryleyw/static/js/runtime-main.905bc755.js",
+    "runtime-main.js.map": "/ryleyw/static/js/runtime-main.905bc755.js.map",
+    "static/js/2.9fbb260d.chunk.js": "/ryleyw/static/js/2.9fbb260d.chunk.js",
+    "static/js/2.9fbb260d.chunk.js.map": "/ryleyw/static/js/2.9fbb260d.chunk.js.map",
+    "index.html": "/ryleyw/index.html",
+    "precache-manifest.2687e47a2f0e4fa2c90dbf2ea7c2bc45.js": "/ryleyw/precache-manifest.2687e47a2f0e4fa2c90dbf2ea7c2bc45.js",
+    "service-worker.js": "/ryleyw/service-worker.js",
+    "static/css/main.e3977c59.chunk.css.map": "/ryleyw/static/css/main.e3977c59.chunk.css.map",
+    "static/js/2.9fbb260d.chunk.js.LICENSE.txt": "/ryleyw/static/js/2.9fbb260d.chunk.js.LICENSE.txt",
+    "static/media/elixirlogo.png": "/ryleyw/static/media/elixirlogo.ec7cf689.png",
+    "static/media/eventscopelogo.png": "/ryleyw/static/media/eventscopelogo.670dbe05.png",
+    "static/media/lecsharescreenshot.png": "/ryleyw/static/media/lecsharescreenshot.b6fce2ba.png",
+    "static/media/logo.svg": "/ryleyw/static/media/logo.5d5d9eef.svg",
+    "static/media/pythonlogo.png": "/ryleyw/static/media/pythonlogo.e0bc8326.png",
+    "static/media/reactlogo.png": "/ryleyw/static/media/reactlogo.82a318cc.png",
+    "static/media/seng474report.pdf": "/ryleyw/static/media/seng474report.69aac467.pdf",
+    "static/media/toon.png": "/ryleyw/static/media/toon.5589fc70.png",
+    "static/media/vikelabslogo.png": "/ryleyw/static/media/vikelabslogo.6d6c8079.png",
+    "static/media/wec2020screenshot.png": "/ryleyw/static/media/wec2020screenshot.5e3dbb57.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.905bc755.js",
+    "static/js/2.9fbb260d.chunk.js",
+    "static/css/main.e3977c59.chunk.css",
+    "static/js/main.2367ebe3.chunk.js"
+  ]
+}
