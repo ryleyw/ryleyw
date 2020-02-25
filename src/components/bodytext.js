@@ -7,7 +7,7 @@ function AboutText() {
     return (
 
         <div className="aboutText padding">
-            Hi, I'm Ryley! I am an enthusiastic 4th year Computer Science Major / Business Minor student with applied experience in enterprise software development. As a lifelong-learner I am driven and eager to build on my academic foundations while staying in tune with the latest technologies to develop my career. I am currently looking for 4 to 8 month opportunities to complete my co-op requirements.
+            Hi! My name's Ryley Woodland and I'm from Victoria, BC. I'm an enthusiastic 4th year Computer Science Major / Business Minor student with applied experience in enterprise software development. As a lifelong-learner I am driven and eager to build on my academic foundations while staying in tune with the latest technologies to develop my career. I am currently looking for 4 to 8 month opportunities to complete my co-op requirements.
             <br/><br/>
             Right now I'm really into web development. Whether it's designing fun and enchanting front-end experiences or processing data in the back-end, I am bolstering my skillset to be able to build scalable and wide reaching applications.
             <br/><br/>
