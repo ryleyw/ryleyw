@@ -4,6 +4,7 @@ var details  = {
     "eventscope": {
         "image": "",
         "paragraphs":[
+            " - page in progress - ",
             "A current work in progress, i wanted to design a better way for discovering local events in your area. I found many listings are simply in list format which are a pain to browse through and may make the user give up when something does not catch their eye within a certain time. In order to retain users and for them to discover more events, I wanted to create a system which encourages a great user experience. Using event data from Google's listings, the data is then translated into the User Interface to be found by the user.",
             "Above is a small mockup of what I envision the finsihed product to look like. Events in close on the UI will be grouped, and as you zoom in on the map, the groups get more defined until you have events listed by vemue. this project will be primarily undertaken in React with the Redux library to promote organizaiton and best practices.",
             "Stay tuned for more developments on this project!"
@@ -35,14 +36,16 @@ var details  = {
     "emotionclassification": {
         "image": "",
         "paragraphs":[
+            " - page in progress - ",
             "In one of my favorite courses of my degree, Data Mining, a requirement was to use the machine learning and data classification algorithms that we were learning in class to create a project to produce results from a large set of data. Luke Rowe, Muhammad Ali and I focused our efforts on creating a emotion classification system on a set of audio clips with an underlying emotion in each.",
-            "Linked below is the final report prepared for the project. In summary, ",
+            "Linked below is the final report prepared for the project.",
         ],
         "github": "" 
     },
     "harmony": {
         "image": "",
         "paragraphs":[
+            " - page in progress - ",
             "This project was my first experience building a web application. Stemming from a simple idea with a friend to create a small, personalized party game akin to Piccolo, I was able to create my first React front-end, an API using the Phoenix framework, and setup a PostgresSQL server to gather data for prompts.",
             "The basic idea of the game was to create prompts with an inputted list of names, and generate prompts based on those names. The project was a good exercise in setting up end to end communicaton and string recognition."
         ],
