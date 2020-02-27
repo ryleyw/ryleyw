@@ -60,6 +60,13 @@ function ProjectCard(props) {
         pdflink = <div></div>
     }
 
+    let githublink;
+    if(props.projectDetails["github"]!="") {
+        githublink = <div><a href={props.projectDetails["github"]} target="_blank">Github</a></div>
+    } else {
+        githublink = null;
+    }
+
     const handleOpen = () => {
         setOpen(true);
     };
@@ -125,12 +132,14 @@ function ProjectCard(props) {
                         </motion.div> 
                     
                     <div className="detailsParagraph" >
+                        
                         <motion.div
                         initial="hidden"
                         animate="visible"
                         variants={modalVariants}
                         transition={{ ease: "easeOut", duration: 0.5, delay: 0.4}}
-                        >
+                        >   
+                            {githublink}
                             {paragraphs}
                             {pdflink}
                         </motion.div> 
