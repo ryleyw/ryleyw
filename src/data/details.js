@@ -5,9 +5,7 @@ var details  = {
         "image": "",
         "paragraphs":[
             " - page in progress - ",
-            "A current work in progress, i wanted to design a better way for discovering local events in your area. I found many listings are simply in list format which are a pain to browse through and may make the user give up when something does not catch their eye within a certain time. In order to retain users and for them to discover more events, I wanted to create a system which encourages a great user experience. Using event data from Google's listings, the data is then translated into the User Interface to be found by the user.",
-            "Above is a small mockup of what I envision the finsihed product to look like. Events in close on the UI will be grouped, and as you zoom in on the map, the groups get more defined until you have events listed by vemue. this project will be primarily undertaken in React with the Redux library to promote organizaiton and best practices.",
-            "Stay tuned for more developments on this project!"
+            "A current work in progress. For developing my tech skillset and algorithm knowledge. Base application will include graph traversal and path finding techniques, then hopefully branch into more complex algorithms."
         ],
         "github": ""
     },
@@ -15,10 +13,10 @@ var details  = {
         "image": lecshareimage,
         "paragraphs":[
             "Lecshare was a project generated in an ideation session with VikeLabs: a University club aiming to create a startup environment at school, where future developers can sink their teeth into building interesting projects.",
-            "Lecshare is a React application with typescript implementation. Lecshare aims to make lectures more accessible for students with auditory, visual, or learning impairments; and improving learning outcomes for students in lecture-based courses. I was assigned as a team leader to the project, and together Derek Lowlind and Bryce Edwards, designed the architecture and outlined the long term goals of the system. Development of the initial front-end prototype was led by myself, where I honed my skills in React to create a dynamic interface to link word highlighting and audio.",
-            "Currently Lecshare is being upgraded to support multiple lecture access per course, with hopes for a live testing round in the Fall of 2020. Any updates will be posted here, but feel free to check out the github repo for more frequent additions.",
+            "I was a Team Lead for this project and was involved in the front end design and programming of the application, and the architecture design and project management of the entire application.",
+            "Lecshare is a React application with typescript implementation. Lecshare aims to make lectures more accessible for students with auditory, visual, or learning impairments; and improving learning outcomes for students in lecture-based courses.",
             "Core contributors to this project include Bryce Edwards, Derek Lowlind and Aomi Jokoji. Feel free to look these cool guys up on LinkedIn!",
-            "Finally, check out the project at https://vikelabs.github.io/lecshare-main. There's some testing with a login page currently, use username: admin and password: admin to view the main page!"
+            "Unfortunately due to time contraints and lack of interest of professors, Lecshare has been put on hold until interest arrises again. However, you can check out a demo at https://vikelabs.github.io/lecshare/. Use course code: UVIC#ECON#416-201809#A00-vikelabs to access the content page.",
         ],
         "github": "https://github.com/VikeLabs/lecshare-main"
     },
@@ -36,18 +34,8 @@ var details  = {
     "emotionclassification": {
         "image": "",
         "paragraphs":[
-            " - page in progress - ",
             "In one of my favorite courses of my degree, Data Mining, a requirement was to use the machine learning and data classification algorithms that we were learning in class to create a project to produce results from a large set of data. Luke Rowe, Muhammad Ali and I focused our efforts on creating a emotion classification system on a set of audio clips with an underlying emotion in each.",
             "Linked below is the final report prepared for the project.",
-        ],
-        "github": "" 
-    },
-    "harmony": {
-        "image": "",
-        "paragraphs":[
-            " - page in progress - ",
-            "This project was my first experience building a web application. Stemming from a simple idea with a friend to create a small, personalized party game akin to Piccolo, I was able to create my first React front-end, an API using the Phoenix framework, and setup a PostgresSQL server to gather data for prompts.",
-            "The basic idea of the game was to create prompts with an inputted list of names, and generate prompts based on those names. The project was a good exercise in setting up end to end communicaton and string recognition."
         ],
         "github": "" 
     }

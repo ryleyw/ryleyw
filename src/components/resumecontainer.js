@@ -53,12 +53,20 @@ function ResumeContainer() {
                 <div className="resumeSubHeader">Soft Skills&nbsp;</div>
                 <div className="resumeSectionInfo">&nbsp;</div>
                 <ul className="resumeText">
-                    <li>Communicator | Leader | Collaborator | Team player | Creator | Problem Solver </li>
+                    <li>Problem Solver | Communicator | Leader | Collaborator | Team player | Creator </li>
                 </ul>
             </div>
 
             <div className="resumeSectionHeader">Work Experience</div>
             <div className="sectionContainer">
+            <div className="resumeSubHeader">Software Development Co-op, Level 1&nbsp;</div>
+                <div className="resumeSectionInfo"> | BC Dev Exchange | 05/2020 - 09/2020</div>
+                <ul className="resumeText">
+                    <li>Development of client facing features in React.</li>
+                    <li>Communication and coordination in a remote agile setting to deliver solutions alongside a multi-disciplinary team of developers.</li>
+                    <li>Ownership of my own work and independent problem solving developing features.</li>
+                    <li>Implemented linting and web analytic frameworks to improve front-end infrastructure.</li>
+                </ul>
                 <div className="resumeSubHeader">Web Developer&nbsp;</div>
                 <div className="resumeSectionInfo"> | BC Ministry of Citizens' Services | 05/2019 - 12/2019</div>
                 <ul className="resumeText">
@@ -70,7 +78,6 @@ function ResumeContainer() {
                     <li>Wrote Python scripts to autmate databse querying and mass data tranfers between databases.</li>
                     <li>Wrote automated test scripts in Selenium and JUnit for CI/CD pipeline.</li>
                 </ul>
-            
                 <div className="resumeSubHeader">Technical Co-op&nbsp;</div>
                 <div className="resumeSectionInfo"> | LlamaZOO Interactive | 09/2018 - 12/2018</div>
                 <ul className="resumeText">

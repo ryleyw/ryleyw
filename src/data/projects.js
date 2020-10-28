@@ -1,7 +1,7 @@
 var projects = {
     "eventscope": {
-        "title": "EventScope",
-        "text": "In progress - React application with Node.js backend data gathering."
+        "title": "PocketAlgs",
+        "text": "In progress - React Native application to educate on and visualize algorithms."
     },
     "lecshare": {
         "title": "Lecshare",

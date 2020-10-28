@@ -20,7 +20,6 @@ function ProjectContainer() {
             <GrowToLeft propColor="#20A39E" delay={1} projectData={projects["lecshare"]} projectDetails={details["lecshare"]}  projectLogo={VikeLabsLogo}/>
             <GrowToRight propColor="#EF5B5B" delay={2} projectData={projects["wec2020"]} projectDetails={details["wec2020"]}  projectLogo={ReactLogo}/>
             <GrowToLeft propColor="#713E5A" delay={3} projectData={projects["emotionclassification"]} projectDetails={details["emotionclassification"]}  projectLogo={PythonLogo}/>
-            <GrowToRight propColor="#63A375" delay={4} projectData={projects["harmony"]} projectDetails={details["harmony"]}  projectLogo={ElixirLogo}/>            
             </div>
     )
 }
